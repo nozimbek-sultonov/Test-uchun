@@ -1,2 +1,2 @@
 # Test-uchun
- biror narsa
+Akalar hali project tayyor emas
